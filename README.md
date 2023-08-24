@@ -1,4 +1,4 @@
 # Pizza_creed
 Enterprise application development 2 course work.
 
-<img src="https://drive.google.com/file/d/1h9U0IoznWMSkbzgqnSQiElQ0RbPrSzP3/view?usp=sharing" alt="pizza-creed">
+![Screenshot 2023-07-07 012849](https://github.com/Pavithra-cj/Pizza_creed/assets/84024015/2a52d230-05d5-4711-8d98-bb12d34bb6c5)
